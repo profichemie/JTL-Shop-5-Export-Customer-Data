@@ -2,10 +2,10 @@
 
 use JTL\Shop;
 
-require_once("../includes/globalinclude.php");
+require_once("../includes/globalinclude.php"); //edit path to file
 require_once("./xt.php");
 
-$xtea = new XT("INSERT_BLOWFISH_KEY");
+$xtea = new XT("INSERT_BLOWFISH_KEY"); //edit Blowfishkey
 
 $q = "SELECT * FROM tkunde";
 
