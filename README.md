@@ -1,5 +1,5 @@
 # JTL-Shop-5-Export-Customer-Data
-Mit diesem Skript lassen sich Kundendaten aus einem Shop in Klartext exportieren.
+Mit diesem Skript lassen sich Kundendaten aus einem JTL Shop 5 in Klartext exportieren.
 
 Dazu ist er entsprechende Blowfishkey notwendig.
 
